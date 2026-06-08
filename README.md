@@ -204,19 +204,19 @@ Business-focused recommendations based on:
 
 ### Executive Summary
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/Screenshot 2026-06-08 222018.png)
 
 ### Churn Analysis
 
-![Churn Analysis](images/churn_analysis.png)
+![Churn Analysis](images/Screenshot 2026-06-08 222023.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](images/Screenshot 2026-06-08 222028.png)
 
 ### Retention Strategy
 
-![Retention Strategy](images/retention_strategy.png)
+![Retention Strategy](images/Screenshot 2026-06-08 222033.png)
 
 ---
 
